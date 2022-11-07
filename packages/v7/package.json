@@ -1,0 +1,15 @@
+{
+  "name": "v7",
+  "version": "0.0.0",
+  "description": "",
+  "type": "module",
+  "exports": "./index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Michael Novotny <manovotny@gmail.com> (https://manovotny.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "to-vfile": "^7.2.3"
+  }
+}

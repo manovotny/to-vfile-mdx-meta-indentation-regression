@@ -1,0 +1,17 @@
+{
+  "name": "to-vfile-mdx-meta-indentation-regression",
+  "version": "0.0.0",
+  "description": "",
+  "workspaces": [
+    "packages/v6",
+    "packages/v7"
+  ],
+  "scripts": {
+    "start": "npm start --workspaces"
+  },
+  "author": "Michael Novotny <manovotny@gmail.com> (https://manovotny.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "remark": "^14.0.2"
+  }
+}
